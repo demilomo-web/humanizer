@@ -1,0 +1,5 @@
+{
+  "name": "humanizer",
+  "version": "0.1.0",
+  "description": "Helps Claude write like a person, not a chatbot, by avoiding the common signs of AI writing."
+}
